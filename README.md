@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/banner.svg" alt="Superstore Sales Dashboard" width="100%"/>
+<img src="banner.svg" alt="Superstore Sales Dashboard" width="100%"/>
 
 <br/>
 
