@@ -27,7 +27,7 @@ An interactive **Power BI** dashboard built on the classic *Sample Superstore* d
 
 <div align="center">
 
-<img src="superstore sales.png" alt="Superstore Sales Power BI Dashboard" width="95%"/>
+<img src="superstore.png" alt="Superstore Sales Power BI Dashboard" width="95%"/>
 
 <sub>Supermarket-themed interface with a filter panel that cross-filters every visual.</sub>
 
